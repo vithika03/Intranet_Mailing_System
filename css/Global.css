@@ -1,0 +1,93 @@
+﻿.btn
+{
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: cursive;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 5px 5px 5px 5px;
+    text-decoration: none;
+}
+
+.btn:hover
+{
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
+
+.Searchtextbox
+{
+    background: #FFF url(../images/LenteLogo.png) no-repeat 2px 4px;
+    border: 1px solid #999;
+    outline: 0;
+     border-radius: 0.5em;
+    height: 25px;
+    width: 275px;
+    padding-left: 25px;
+}
+
+.textbox
+{
+    overflow: hidden;
+    border-radius: 0.5em;
+    padding-left: 2px;
+    padding-right: 2px;
+    height:25px;
+}
+.LinkBtn
+{
+    font-size: 16px;
+    font-family: cursive;
+}
+.btn1
+{border-radius: 5px; 
+  background: #3498db;
+-moz-border-radius: 5px; 
+-webkit-border-radius: 5px; 
+border: 2px solid #800000;
+color: #ffffff;
+Font-Names="cursive"
+}
+
+
+.dropdown{
+  border-radius:0.5em;
+  display:inline-block;
+  overflow:hidden;
+  background:white;
+   width:178px;
+  outline:none;
+  border:1px solid #cccccc;
+    height:30px;
+}
+
+.captcha
+{
+    text-decoration-style: wavy;
+    letter-spacing: 1mm;
+}
+
+.backgroundImage
+
+{
+
+background-image: url("C:\Users\Dimpy\Desktop\email-data-blue-ss-1920.jpg");
+background-repeat: no-repeat;
+
+background-attachment: fixed;
+background-position: center top;
+
+height: 1197px;
+}
